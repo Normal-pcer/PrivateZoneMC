@@ -1,4 +1,4 @@
-package com.example;
+package top.znhua;
 
 import net.fabricmc.api.ClientModInitializer;
 
