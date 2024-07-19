@@ -4,11 +4,26 @@
         "type": "flat",
         "settings": {
             "layers": [
-                {"height": 1, "block": "minecraft:bedrock"},
-                {"height": 128, "block": "minecraft:deepslate"},
-                {"height": 62, "block": "minecraft:stone"},
-                {"height": 3, "block": "minecraft:dirt"},
-                {"height": 1, "block": "minecraft:grass_block"}
+                {
+                    "height": 1,
+                    "block": "minecraft:bedrock"
+                },
+                {
+                    "height": 128,
+                    "block": "minecraft:deepslate"
+                },
+                {
+                    "height": 62,
+                    "block": "minecraft:stone"
+                },
+                {
+                    "height": 3,
+                    "block": "minecraft:dirt"
+                },
+                {
+                    "height": 1,
+                    "block": "minecraft:grass_block"
+                }
             ]
         }
     }

@@ -1,0 +1,7 @@
+{
+    "text.homez_command.back.prev_not_found": "无法找到先前的位置。",
+    "text.homez_command.tp.not_overworld": "该功能仅在主世界可用。",
+    "text.homez_command.create.none_left": "所有私有维度均已被分配。",
+    "text.homez_command.create.success": "已创建私有维度。使用' /homez tp '以传送。",
+    "text.homez_command.tp.not_created": "您还未创建私有维度。使用' /homez create '以创建。"
+}

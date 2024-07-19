@@ -1,0 +1,7 @@
+{
+    "text.homez_command.back.prev_not_found": "Previous position not found.",
+    "text.homez_command.tp.not_overworld": "This function can only be used in the overworld.",
+    "text.homez_command.tp.not_created": "You have not created your home dimension yet. Use ' /homez create ' to create.",
+    "text.homez_command.create.none_left": "All home dimensions are already distributed.",
+    "text.homez_command.create.success": "Home dimension created successfully. Use ' /homez tp ' to teleport."
+}
