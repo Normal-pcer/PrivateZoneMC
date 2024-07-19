@@ -3,5 +3,13 @@
     "text.homez_command.tp.not_overworld": "该功能仅在主世界可用。",
     "text.homez_command.create.none_left": "所有私有维度均已被分配。",
     "text.homez_command.create.success": "已创建私有维度。使用' /homez tp '以传送。",
-    "text.homez_command.tp.not_created": "您还未创建私有维度。使用' /homez create '以创建。"
+    "text.homez_command.tp.not_created": "您还未创建私有维度。使用' /homez create '以创建。",
+    "text.homez_command.give.not_found_or_owned": "目标维度不存在或已被分配。",
+    "text.homez_command.give.success": "已给予%s私有维度#%d。使用' /homez tp '以传送。",
+    "text.homez_command.create.already_exist": "您已拥有一个私有维度。使用' /homez tp '以传送。",
+    "text.homez_command.init.not_found": "找不到目标维度。",
+    "text.homez_command.init.init_required": "开始初始化维度。这可能需要几秒钟时间。",
+    "text.homez_command.init.already_init": "目标维度已经初始化完成。",
+    "text.homez_command.setspawn.not_in_private_zone": "该功能尽在私有维度可用。",
+    "text.homez_command.setspawn.success": "成功设置私有维度重生点。"
 }

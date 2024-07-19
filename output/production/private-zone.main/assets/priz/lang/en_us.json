@@ -3,5 +3,13 @@
     "text.homez_command.tp.not_overworld": "This function can only be used in the overworld.",
     "text.homez_command.tp.not_created": "You have not created your home dimension yet. Use ' /homez create ' to create.",
     "text.homez_command.create.none_left": "All home dimensions are already distributed.",
-    "text.homez_command.create.success": "Home dimension created successfully. Use ' /homez tp ' to teleport."
+    "text.homez_command.create.success": "Home dimension created successfully. Use ' /homez tp ' to teleport.",
+    "text.homez_command.give.not_found_or_owned": "Target dimension is not exist or already owned by other player.",
+    "text.homez_command.give.success": "Target Home dimension (#%d) is successfully given to %s. Use ' /homez tp ' to teleport.",
+    "text.homez_command.create.already_exist": "You have already created your home dimension. Use ' /homez tp ' to teleport.",
+    "text.homez_command.init.not_found": "Target dimension not found.",
+    "text.homez_command.init.init_required": "Initialization started. It may take a few seconds.",
+    "text.homez_command.init.already_init": "Target dimension has already been initialized.",
+    "text.homez_command.setspawn.not_in_private_zone": "This function can only be used in the private zone.",
+    "text.homez_command.setspawn.success": "Spawn point set successfully."
 }
